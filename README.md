@@ -7,10 +7,10 @@ We are cleaning and exploring the Olympic Games data set from from Athens 1896 t
 
 The columns in the data sets are:
 
-ID - Unique number for each athlete <br>
-Name - Athlete's name  <br>
+**ID **- Unique number for each athlete <br>
+**Name **- Athlete's name  <br>
 Sex - M or F  <br>
-Age - Integer  <br>
+Age  - Integer  <br>
 Height - In centimeters  <br>
 Weight - In kilograms  <br>
 Team - Team name  <br>
