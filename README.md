@@ -23,7 +23,7 @@ The columns in the data sets are:
 
 ## Objecttive:
 ○ Examine/clean the dataset
-○ Explore distribution of numerical and categorical features via statistic and visualization
+○ Explore distribution of numerical and categorical features via statistic and visualization <br>
 ○ Explore the relationshio of multiple features using statiscial description and visual analytics 
 
 #### Data source: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
